@@ -11,7 +11,7 @@ $config = [
 		'footer' => 'default_footer'
 	],
 	//System URL (onlive replace with domain URL)
-	'sys_url' =>  'http://localhost/mytools/'
+	'sys_url' =>  'http://localhost/fb-framework/'
 
 ];
 
