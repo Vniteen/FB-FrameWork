@@ -16,7 +16,7 @@ require_once 'system/BaseController.php';
 
 $objBaseController = new BaseController();
 $objParam = $objBaseController->getQueryParams();
-
+// Included system class
 require 'system/system.php';
 
 if( !property_exists( $objParam, 'module') ){
