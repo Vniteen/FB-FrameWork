@@ -8,4 +8,6 @@ Also, this framework will give you simpe structure for your small website and wi
 
 Please report issue here and give us chance to improve.
 
+anyone wants to contribute to the framework please send a mail on : veerniteen@gmail.com
+
 Thanks In advance...
